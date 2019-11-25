@@ -6,8 +6,8 @@
 
 --implemented functionalities:
 
---create json request to Open Weather
---fetch the current weather of designated cities (from Text user input), or the user's current positions
---locating the users cuurent postion using locationManager.
---basic UI
---play with drawable to polish the UI
+Create json request to Open Weather.
+Fetch the current weather of designated cities (from Text user input), or the user's current positions.
+Locating the users cuurent postion using locationManager.
+Basic UI.
+Play with drawable to polish the UI.
